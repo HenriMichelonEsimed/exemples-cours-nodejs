@@ -1,0 +1,9 @@
+{
+  "name": "00-helloworld",
+  "dependencies": {
+  },
+  "scripts": {
+    "run": "node main.js",
+    "debug" : "node --inspect --inspect-brk main.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "exemple",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "run": "node main.js",
+    "debug": "node --inspect --inspect-brk main.js"
+  }
+}
